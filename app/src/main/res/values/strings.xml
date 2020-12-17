@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShivangiShandilya_COMP304_001_Hands-On_Test1_F20</string>
+    <string-array name="memoryCycle">
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+        <item>120</item>
+
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+
+
+    </string-array>
+</resources>
